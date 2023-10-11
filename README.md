@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Théotime 👋
 
 My name is Théotime, I am a student in Computer Science at the University of Montreal.
 
@@ -10,6 +10,11 @@ My name is Théotime, I am a student in Computer Science at the University of Mo
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=282828">
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=theotimeflichy&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotimeflichy&theme=tokyonight">
 </p>
 
 <!--
