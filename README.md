@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+### Technologies I know
+
+<center>
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+</center>
+
 <!--
 **theotimeflichy/theotimeflichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
