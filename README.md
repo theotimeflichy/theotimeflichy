@@ -13,8 +13,8 @@ My name is Théotime, I am a student in Computer Science at the University of Mo
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=theotimeflichy&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotimeflichy&theme=tokyonight">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=theotimeflichy&show_icons=true&theme=tokyonight">-->
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotimeflichy&theme=tokyonight">-->
 </p>
 
 <!--
